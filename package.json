@@ -1,0 +1,12 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "description": "second angular project",
+  "main": "server.js",
+  "scripts": {
+    "test": "no",
+    "start": "node server.js"
+  },
+  "author": "farid hajnal",
+  "license": "ISC"
+}
