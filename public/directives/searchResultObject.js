@@ -10,6 +10,7 @@ myApp.directive("searchResultObject", function() { //camel case is standarizzed 
        scope:{
            //isolating the scope <<MODEL FOR DIRECTIVE ITSELF>>
            personObject : "=" //equals denotes that is two way binding and allows passing an object
-       }
+      }
+       
    }
 });
